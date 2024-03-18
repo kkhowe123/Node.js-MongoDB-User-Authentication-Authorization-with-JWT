@@ -1,1 +1,1 @@
-# Node.js-MongoDB-User-Authentication-Authorization-with-JWT
+# node-js-jwt-auth-mongodb
